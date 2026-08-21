@@ -6,6 +6,7 @@ The original project repository is no longer available on GitHub. This public ar
 
 ## What this project contains
 
+- Source files of the bypass & original software
 - A short overview of the Backdrop licensing analysis
 - A defensive threat model for local entitlement state
 - Recommended controls for signed entitlements, server validation, device binding, time handling, and revocation
